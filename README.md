@@ -1,111 +1,114 @@
-# Ana Dallabrida – Systems Validation & Reliability Engineering
+# Ana Dallabrida
 
-Security-Informed Senior Systems QA Engineer | Linux, Networking, Distributed Systems | API/SDK Validation | Cybersecurity (CySA+ aligned)
-
----
-
-## Summary
-
-Senior Systems QA Engineer with 15+ years of experience validating enterprise storage systems, distributed robotics platforms, and network infrastructure.
-
-My focus is not just functional testing — but system behavior under stress, failure conditions, and cross-layer interaction (hardware, firmware, OS, network).
-
-I work at the intersection of:
-- System reliability engineering
-- Failure analysis and root cause investigation
-- Network and Linux-level diagnostics
-- API/SDK integration validation
-- Security-informed observability and anomaly detection
+## Security-Informed Senior Systems QA Engineer  
+Linux • Networking • Distributed Systems • API/SDK Validation • Reliability Engineering
 
 ---
 
-## Core Expertise
+## What I Do
 
-### Systems & Infrastructure
+I validate complex systems where failure is not theoretical.
+
+I work across enterprise storage, distributed robotics, and network infrastructure to understand how systems behave under stress, degradation, and cross-layer interaction.
+
+My focus is simple:
+**find what breaks before production finds it for me.**
+
+---
+
+## Core Focus Areas
+
+### Systems Validation
 - Distributed storage systems (enterprise NAS / clustered systems)
-- High-availability (HA), failover, replication, and upgrade validation
-- Embedded and robotics systems validation under real-world load
-
-### Linux & Networking
-- Linux system diagnostics and performance analysis
-- TCP/IP stack behavior, DNS, SMB, NFS, iSCSI validation
-- Packet capture and analysis (tcpdump, Wireshark)
-- System telemetry correlation (logs, metrics, network traces)
-
-### Validation & Testing
+- High-availability (HA), failover, replication, rolling upgrades
 - Stress, soak, regression, and failure injection testing
-- Release validation and risk assessment for production systems
-- Cross-layer debugging (application → OS → firmware → hardware)
-- Deterministic reproduction of intermittent defects
+
+### Linux & Networking Diagnostics
+- Linux system behavior analysis and performance troubleshooting
+- TCP/IP, DNS, SMB, NFS, iSCSI validation
+- Packet analysis (tcpdump, Wireshark)
+- System logs, counters, and telemetry correlation
 
 ### API / SDK Validation
-- Contract validation and integration testing
-- Error handling and boundary condition testing
+- Contract and integration testing
+- Error handling and boundary condition validation
 - System behavior under load and failure scenarios
-- Retry behavior and timeout validation under stress conditions
+- Retry, timeout, and resilience verification
 
-### Security-Informed Engineering
-- Log correlation and anomaly detection patterns
+### Security-Informed Analysis
+- Log correlation and anomaly detection
 - Incident-style investigation methodology applied pre-production
-- Observability-driven validation strategy (detecting system drift and abnormal behavior)
+- Observability-driven validation thinking
 
 ---
 
-## Engineering Approach
+## How I Work
 
-I treat system validation as evidence-based investigation:
-
-- Start with observed behavior, not assumptions
-- Use logs, packet traces, and system counters as primary evidence
-- Isolate failure conditions until reproduction is deterministic
-- Validate system behavior under stress, not only expected flows
-- Focus on understanding *why systems fail*, not just confirming they pass
+- I treat logs, packets, and system counters as primary evidence
+- I isolate failures until reproduction is deterministic
+- I validate systems under real load, not ideal conditions
+- I connect behavior across hardware, firmware, OS, and network layers
+- I focus on risk clarity, not just pass/fail results
 
 ---
 
-## Representative Work
+## Representative Experience
 
-### Distributed System Failure Analysis
-Identified and isolated cross-layer defects across storage and distributed systems by correlating logs, system telemetry, and network traffic under controlled load conditions.
+### Enterprise Storage Systems (Dell)
+Validated large-scale distributed NAS platforms under production workloads:
+- Cluster failover and high availability behavior
+- Rolling upgrades and system resilience
+- Long-duration stress and performance testing
+- Cross-layer defect isolation across OS, firmware, and hardware
 
-### Network Behavior Investigation
-Used packet-level analysis (tcpdump/Wireshark) to isolate intermittent network degradation tied to specific traffic patterns and system states.
+### Distributed Robotics Systems (Amazon Robotics)
+Validated safety-critical system behavior in production-like environments:
+- Intermittent failure investigation under load
+- Network and system-level performance degradation analysis
+- Cross-team collaboration with firmware and networking engineers
 
-### Large-Scale Validation (Enterprise Storage)
-Validated high-availability clusters under:
-- Failover scenarios
-- Rolling upgrades
-- Long-duration stress and soak testing
-- Performance degradation and recovery conditions
-
-### Robotics Systems Validation (Amazon Robotics)
-Validated safety-critical system updates under production-like load conditions, including analysis of intermittent issues involving network and system-level interactions.
+### Network & Systems Operations (Telecom / Infrastructure)
+- Production incident troubleshooting in live environments
+- Circuit-level diagnostics and system restoration
+- CLI-based network and system analysis under time constraints
 
 ---
 
-## Key Impact Themes
+## Engineering Philosophy
 
-- Reduced ambiguity in complex system failures through structured reproduction
-- Improved reliability of distributed systems through stress-based validation
-- Accelerated root cause isolation using cross-layer diagnostics
-- Strengthened release decision quality in high-risk environments
+Complex systems don’t fail randomly.
+
+They fail at:
+- Integration boundaries
+- Under stress
+- Under timing pressure
+- Across layers that were never designed to be analyzed together
+
+My job is to make those failures visible, reproducible, and explainable.
 
 ---
 
 ## Current Direction
 
-Currently expanding into cybersecurity-focused validation, combining:
-- Linux and network-level diagnostics
-- Security-style anomaly detection
-- Observability and incident investigation methods
-
-Goal: strengthen system validation with security-informed thinking for complex infrastructure environments.
+I’m expanding my work into cybersecurity-informed validation:
+- anomaly detection in system behavior
+- log-driven investigation methods
+- infrastructure observability patterns
+- failure analysis as pre-production incident response
 
 ---
 
-## Open To
+## Open to Opportunities In
 
 - Systems QA / Validation Engineering
 - Infrastructure Reliability Engineering
-- Integration & API/SDK Validation roles
-- Security-informed QA or hybrid reliability-security roles
+- Integration & API/SDK Validation
+- Security-informed QA roles
+
+---
+
+## Contact
+
+- LinkedIn: linkedin.com/in/anadallabrida  
+- Email: dallabrida.c.ana@gmail.com  
+- Location: Massachusetts, USA
