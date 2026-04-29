@@ -112,6 +112,18 @@ This strengthens how I approach reliability in complex distributed systems.
 
 ---
 
+## Featured Work
+
+- [failure-injection-lab](https://github.com/ana-dallabrida/failure-injection-lab) - Network partition and recovery validation
+- [api-boundary-validation](https://github.com/ana-dallabrida/api-boundary-validation) - Timeout, retry, and malformed payload testing
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/anadallabrida) • dallabrida.c.ana@gmail.com
+---
+
 ## Contact
 
 - LinkedIn: linkedin.com/in/anadallabrida  
